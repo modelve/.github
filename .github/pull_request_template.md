@@ -19,3 +19,18 @@ Please delete options that are not relevant.
 - [ ] Rollback handling should be considered
 - [ ] Relevant document updates should be included
 - [ ] Database backup requirements should be assessed
+
+> [!NOTE]
+> Below are used for Release, please delete for normal PR
+
+## Release Type
+- [ ] Regular
+- [ ] Emergency
+
+## Release Checklist
+
+- [ ] Testing should be performed
+- [ ] Changes should be communicated with stakeholders
+- [ ] Rollback handling should be ready
+- [ ] Relevant document should be updated
+- [ ] Post deployment verification should be performed
