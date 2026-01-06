@@ -8,6 +8,7 @@ Please delete options that are not relevant.
 
 - [ ] Code quality results from the Sonar scan should be reviewed
 - [ ] Access control handling should be assessed and implemented
+- [ ] IAM Policy should be checked
 - [ ] Boundary checks should be added
 - [ ] Breaking changes should be documented
 - [ ] Impacts on other modules (e.g. report) should be reviewed
