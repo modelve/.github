@@ -6,7 +6,7 @@ Please include a summary of the changes and the related issues. Please also incl
 
 Please delete options that are not relevant.
 
-- [ ] Code quality results from the Sonar scan should be reviewed
+- [ ] Code quality results should be reviewed
 - [ ] Access control handling should be assessed and implemented
 - [ ] IAM Policy should be checked
 - [ ] Boundary checks should be added
